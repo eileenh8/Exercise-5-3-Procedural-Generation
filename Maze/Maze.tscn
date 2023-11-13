@@ -92,6 +92,7 @@ grow_vertical = 2
 color = Color(0, 0, 0, 0.501961)
 
 [node name="Restart" type="Button" parent="Menu"]
+process_mode = 3
 layout_mode = 1
 anchors_preset = 8
 anchor_left = 0.5
@@ -107,6 +108,7 @@ grow_vertical = 2
 text = "Restart"
 
 [node name="Quit" type="Button" parent="Menu"]
+process_mode = 3
 layout_mode = 1
 anchors_preset = 8
 anchor_left = 0.5
